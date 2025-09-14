@@ -137,7 +137,7 @@
     {
       username: 'kantamxs',
       password: '2606',
-      background: 'https://i.postimg.cc/ZR3vQCC6/8b57589a-f721-4045-a41f-cdce91ef30e5.jpg',  // ใส่ลิงก์ภาพพื้นหลังของ kantamxs
+      background: 'https://i.postimg.cc/x84bHnMd/k7uugoxabzju.jpg',  // ใส่ลิงก์ภาพพื้นหลังของ kantamxs
       image: 'https://i.postimg.cc/7ZJMV3h5/IMG-20241106-193518-819.jpg',
       greeting: 'Hi na hub JuneNae~ Kantamxs! 🌸'
     }
